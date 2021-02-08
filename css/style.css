@@ -59,7 +59,7 @@ li h3 {
 
 .cross {
     vertical-align: middle;
-    font-size: 12px;
+    font-size: 10px;
     color: red;
     width: 20px;
     height: 20px;
@@ -133,4 +133,33 @@ ul li {
     color: white;
     font-size: 10px;
     padding: 5px;
+}
+
+.task {
+    background-color: rgb(24, 113, 165);
+    width: 80px;
+    height: 25px;
+    border-radius: 10%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.section {
+    width: 80;
+    height: 25px;
+    color: gray;
+    border-radius: 10%;
+    border-color:  gray;
+    font-size: 10px;
+    padding: 5px;
+
+}
+
+.link {
+    color: white;
+}
+
+.links {
+    color: gray
 }
