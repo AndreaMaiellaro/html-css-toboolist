@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #f6f8f9;
 }
 
 header {
@@ -17,4 +17,14 @@ main {
     background-color: white;
     width 70%;
     margin: 30px auto;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo-text {
+    display: inline-block;
+    vertical-align: middle;
 }
