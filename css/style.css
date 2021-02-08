@@ -57,7 +57,80 @@ li h3 {
     line-height: 20px;
 }
 
-.testo {
-    text-align: center;
+.cross {
     vertical-align: middle;
+    font-size: 12px;
+    color: red;
+    width: 20px;
+    height: 20px;
+    border: 2px solid red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+}
+
+ul li {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.editorial {
+    background-color: rgb(24, 113, 165);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.recruiting {
+    background-color: rgb(16, 138, 62);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.goals {
+    background-color: rgb(106, 8, 119);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.mobile {
+    background-color: rgb(197, 130, 31);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.website {
+    background-color: rgb(163, 14, 156);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.sales {
+    background-color: rgb(94, 206, 20);
+    width: 50px;
+    height: 20px;
+    border-radius: 30%;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
 }
